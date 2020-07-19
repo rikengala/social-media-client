@@ -1,12 +1,12 @@
 
-### Social Media Client
+#### Social Media Client
 
 This is a React Web App where I am trying to create a Twitter clone.
 The app allows users to post, check user timelines, like or comment on posts.
 
 To run the app in your local environment, clone the repository and in the project directory, you can run:
 
-### `yarn start`
+## yarn start
 
 This will run the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
